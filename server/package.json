@@ -12,12 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "eslint": "^5.11.1",
     "express": "^4.16.4",
     "file-system": "^2.2.2",
     "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
     "morgan": "^1.9.1",
     "sequelize": "^4.42.0",
     "sqlite3": "^4.0.4"
